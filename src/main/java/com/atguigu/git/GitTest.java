@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("hot fixed");
         System.out.println("hot fixed");
          System.out.println("网页端1");
+         System.out.println("网页端2");
     }
 }
